@@ -47,7 +47,7 @@ footer{
 
 @media (max-width: 600px;) {
 
-   container {
+   div.container {
       grid-template-columns: 1fr;
       grid-template-areas:
 
